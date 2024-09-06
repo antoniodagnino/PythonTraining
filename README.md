@@ -144,3 +144,55 @@ Coming soon!
 - Time Shifting
 - Rolling and Expanding
 - Time Series Visualization
+
+# 9. Cheat Sheet General Forecasting
+- Coming Soon!
+
+# 10. Cheat Sheet Pytorch Basics
+- **Reference information**
+- **Create Tensors**
+    - torch.randint
+    - torch.arange
+    - torch.arange with trick to make them float
+    - torch rand (return scalars between 0 and 1)
+    - torch.randn (return scalars from the standard normal dist)
+    - torch.linspace
+    - torch.empty
+    - torch.zeros
+    - torch.zeros_like (Returns tensor filled with 0s with the same size as input.
+    - torch.ones
+    - torch.ones_like
+    - torch.full
+- **Convert to Tensors**
+    - from_numpy
+    - as_tensor
+    - tensor and Tensor (One converts to int and the other float)
+    - FloatTensor
+- **Handle Tensor Dimensions**
+    - reshape (this function will copy the underlying data)
+    - view   (this function will not copy the underlying data)
+    - view_as
+    - unsqueeze
+    - Use of None expression
+    - Slice Notation for Even Numbers
+    - Slice Notation for Odd Numbers
+    - Handle Tensor Ops based on dimensions
+- **Tensor Operations**
+    - Change Tensor type
+    - torch.cat
+    - torch.stack
+    - Matrix Transpose
+    - Permute
+    - torch.where
+    - Slice Notation
+    - Math Ops
+- **Tensor Attributes**
+    - Shape or Size (same thing)
+    - Device (CPU or GPU)
+    - Layout
+    - Mean
+    - Max
+    - argmin, argmax
+    - sum
+    - unique
+- **Probability Dist Functions**
