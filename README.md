@@ -1,5 +1,5 @@
 # PythonTraining
-This repository contains Jupyter notebooks with comment lines, comment cells and outputs that explain the functionality of different libraries in Python. These 'cheat sheets' include basic Python programming, Numpy, Pandas, Matplotlib, Seaborn and more. I hope it guides you to start your programming experience! Below you have more details of the content.
+This repository contains Jupyter notebooks with comment lines, comment cells and outputs that explain the functionality of different libraries in Python. These guidelines include basic Python programming, Numpy, Pandas, Matplotlib, Seaborn and more. I hope it guides you to start your programming experience! Below you have more details of the content.
 
 
 
