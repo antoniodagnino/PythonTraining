@@ -145,10 +145,7 @@ Coming soon!
 - Rolling and Expanding
 - Time Series Visualization
 
-# 9. Cheat Sheet General Forecasting
-- Coming Soon!
-
-# 10. PYTORCH Fundamentals
+# 9. PYTORCH Fundamentals
 - **Reference information**
 - **Create Tensors**
     - torch.randint
