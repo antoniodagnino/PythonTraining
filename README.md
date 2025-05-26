@@ -3,7 +3,7 @@ This repository contains Jupyter notebooks with comment lines, comment cells and
 
 
 
-# 1. Cheat Sheet Antonio Dagnino (Lists, Strings, Dictionaries, Loops, text Files, os library)
+# 1. Data types and loops
 Content:
 - Arithmetic
     - Math library
@@ -40,7 +40,7 @@ Content:
     - Remove Folders
 
 
-# 2. Cheat Sheet Antonio Dagnino (Functions and classes)
+# 2. Functions and classes
 - Functions
     - Abstraction Mechanisms
         - Eliminating Redundancy
@@ -59,7 +59,7 @@ Content:
     - Inheritance
 
 
-# 3. Cheat Sheet Antonio Dagnino - NUMPY
+# 3. NUMPY Fundamentals
 - Create Arrays and Grids
     - One dimension array
     - Two dimension array
@@ -91,7 +91,7 @@ Content:
     - Unique function
 - Broadcasting
 
-# 4. Cheat Sheet Antonio Dagnino - PANDAS
+# 4. PANDAS Fundamentals
 - Create DF
     - Create Dummy DF
     - Copy DF to another variable
@@ -120,10 +120,10 @@ Content:
     - lambda expression with datetime
 - Plotting with Pandas
 
-# 5. Cheat Sheet Antonio Dagnino - MATPLOTLIB
+# 5. MATPLOTLIB Fundamentals
 Coming soon!
 
-# 6. Cheat Sheet Antonio Dagnino - SEABORN
+# 6. SEABORN Fundamentals
 - Create Dummy DF
 - Pairplot
 - barplot
@@ -131,14 +131,14 @@ Coming soon!
 - heatmap - quick way to plot missing data in dataframe
 - More coming soon
 
-# 7. Cheat Sheet Antonio Dagnino - Time Series Data
+# 7. Time Series data with PANDAS
 - DateTime Index Basics
 - Time Resampling
 - Time Shifting
 - Rolling and Expanding
 - Time Series Visualization
 
-# 8. Cheat Sheet Antonio Dagnino - STATSMODEL
+# 8. STATSMODEL Fundamentals
 - DateTime Index Basics
 - Time Resampling
 - Time Shifting
@@ -148,7 +148,7 @@ Coming soon!
 # 9. Cheat Sheet General Forecasting
 - Coming Soon!
 
-# 10. Cheat Sheet Pytorch Basics
+# 10. PYTORCH Fundamentals
 - **Reference information**
 - **Create Tensors**
     - torch.randint
